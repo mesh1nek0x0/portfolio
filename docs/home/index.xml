@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on mesh1nek0x0&#39;s portfolio</title>
+    <link>https://mesh1nek0x0.github.io/portfolio/home/</link>
+    <description>Recent content in Homes on mesh1nek0x0&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://mesh1nek0x0.github.io/portfolio/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/about/</guid>
+      <description>Biography  飯田 涼太(いいだ りょうた) / 1989.05.17 深く考えすぎるよりも行動派  （本業）Webアプリケーションエンジニア/スクラムマスター （複業）インストラクター   チームが気持ちよく仕事できるように仕組みを考えたり、 作ったりすることが得意です。バックエンドの開発が得意です。 NodeJS/PHPがメインで、Java/Ruby/Goもたしなむ程度。
+AWSも好きです、サーバレスで仕事も生活も効率化を大事にします。
+座右の銘：「変わらないでいるために、変わり続ける」</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

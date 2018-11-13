@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Lambda on mesh1nek0x0&#39;s portfolio</title>
+    <link>https://mesh1nek0x0.github.io/portfolio/tags/aws-lambda/</link>
+    <description>Recent content in AWS Lambda on mesh1nek0x0&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 13 Nov 2018 00:14:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://mesh1nek0x0.github.io/portfolio/tags/aws-lambda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noah</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/noah/</link>
+      <pubDate>Tue, 13 Nov 2018 00:14:47 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/noah/</guid>
+      <description>概要 　Electron製のデスクトップApp。オープンデータで公開されてい川のうち、指定の河川の水位をメニューバーに表示できる。水位が上昇傾向にあると通知される。
+Asia Open Data Hackthon 2017にて開発、現在は開発停止。
+担当について 　アプリ案/チームリーダー/プレゼン担当/全体技術フォローを実施しました。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>オープンデータ on mesh1nek0x0&#39;s portfolio</title>
+    <link>https://mesh1nek0x0.github.io/portfolio/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF/</link>
+    <description>Recent content in オープンデータ on mesh1nek0x0&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 31 Jan 2015 10:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://mesh1nek0x0.github.io/portfolio/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>金沢すきま旅（iOS App）</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/kanazawa-sukima/</link>
+      <pubDate>Sat, 31 Jan 2015 10:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/kanazawa-sukima/</guid>
+      <description>概要 　出張者向けの観光アプリ。仕事とはいえせっかく来たから観光したいという出張者に、隙間時間で今から行って帰ってこれる観光地をリストアップするiOS App。
+現在は開発および公開が停止。
+担当について 　北陸新幹線開業を見据えて提案から開発、リリースまで実施。初めてのチームリーダー、あわせてバックエンドAPIの開発を担当しました。</description>
+    </item>
+    
+  </channel>
+</rss>

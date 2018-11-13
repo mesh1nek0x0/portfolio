@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mesh1nek0x0&#39;s portfolio on mesh1nek0x0&#39;s portfolio</title>
+    <link>https://mesh1nek0x0.github.io/portfolio/</link>
+    <description>Recent content in mesh1nek0x0&#39;s portfolio on mesh1nek0x0&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    <atom:link href="/portfolio/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Noah</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/noah/</link>
+      <pubDate>Tue, 13 Nov 2018 00:14:47 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/noah/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;　Electron製のデスクトップApp。オープンデータで公開されてい川のうち、指定の河川の水位をメニューバーに表示できる。水位が上昇傾向にあると通知される。&lt;/p&gt;
+
+&lt;p&gt;Asia Open Data Hackthon 2017にて開発、現在は開発停止。&lt;/p&gt;
+
+&lt;h2 id=&#34;担当について&#34;&gt;担当について&lt;/h2&gt;
+
+&lt;p&gt;　アプリ案/チームリーダー/プレゼン担当/全体技術フォローを実施しました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Asia Opendata Hackthon 2017</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/publication/asia-opendata-hackthon-2017/</link>
+      <pubDate>Sat, 19 Aug 2017 14:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/publication/asia-opendata-hackthon-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asia Opendata Hackthon 2017</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/talk/asia-opendata-hackthon-2017/</link>
+      <pubDate>Sat, 19 Aug 2017 14:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/talk/asia-opendata-hackthon-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>「アーバンデータチャレンジ2014」ファイナルステージ</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/talk/urban-data-challenge-2014/</link>
+      <pubDate>Sat, 28 Feb 2015 10:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/talk/urban-data-challenge-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>金沢すきま旅（iOS App）</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/kanazawa-sukima/</link>
+      <pubDate>Sat, 31 Jan 2015 10:00:00 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/kanazawa-sukima/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;　出張者向けの観光アプリ。仕事とはいえせっかく来たから観光したいという出張者に、隙間時間で今から行って帰ってこれる観光地をリストアップするiOS App。&lt;/p&gt;
+
+&lt;p&gt;現在は開発および公開が停止。&lt;/p&gt;
+
+&lt;h2 id=&#34;担当について&#34;&gt;担当について&lt;/h2&gt;
+
+&lt;p&gt;　北陸新幹線開業を見据えて提案から開発、リリースまで実施。初めてのチームリーダー、あわせてバックエンドAPIの開発を担当しました。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
