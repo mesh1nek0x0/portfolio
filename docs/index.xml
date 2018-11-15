@@ -11,6 +11,22 @@
     <atom:link href="/portfolio/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Hugo Portfolio</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/hugo-portfolio/</link>
+      <pubDate>Wed, 14 Nov 2018 22:05:01 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/hugo-portfolio/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;　&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;HUGO&lt;/a&gt;とgithubを利用したお手軽ポートフォリオ。github pagesを利用しているため、サーバの運用などは一切考えなくてもよい。&lt;/p&gt;
+
+&lt;p&gt;themeは&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;を利用しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Noah</title>
       <link>https://mesh1nek0x0.github.io/portfolio/project/noah/</link>
       <pubDate>Tue, 13 Nov 2018 00:14:47 +0900</pubDate>

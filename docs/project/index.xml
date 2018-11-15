@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 13 Nov 2018 00:14:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 22:05:01 +0900</lastBuildDate>
     
 	<atom:link href="https://mesh1nek0x0.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Portfolio</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/hugo-portfolio/</link>
+      <pubDate>Wed, 14 Nov 2018 22:05:01 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/hugo-portfolio/</guid>
+      <description>概要 　HUGOとgithubを利用したお手軽ポートフォリオ。github pagesを利用しているため、サーバの運用などは一切考えなくてもよい。
+themeはAcademicを利用しています。</description>
+    </item>
     
     <item>
       <title>Noah</title>
