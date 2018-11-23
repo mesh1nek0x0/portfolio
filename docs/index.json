@@ -35,7 +35,7 @@
     "publishdate": "2018-11-13T00:14:47+09:00",
     "relpermalink": "/portfolio/project/noah/",
     "section": "project",
-    "summary": "概要 　Electron製のデスクトップApp。オープンデータで公開されてい川のうち、指定の河川の水位をメニューバーに表示できる。水位が上昇傾向にあると通知される。\nAsia Open Data Hackthon 2017にて開発、現在は開発停止。\n担当について 　アプリ案/チームリーダー/プレゼン担当/全体技術フォローを実施しました。",
+    "summary": "河川水位監視の監視デスクトップアプリ",
     "tags": [
       "AWS",
       "AWS Lambda",
@@ -44,7 +44,7 @@
       "個人開発",
       "Electron"
     ],
-    "title": "Noah",
+    "title": "Noah（Electron）",
     "type": "project"
   },
   {
@@ -120,7 +120,7 @@
     "publishdate": "2015-01-31T10:00:00+09:00",
     "relpermalink": "/portfolio/project/kanazawa-sukima/",
     "section": "project",
-    "summary": "概要 　出張者向けの観光アプリ。仕事とはいえせっかく来たから観光したいという出張者に、隙間時間で今から行って帰ってこれる観光地をリストアップするiOS App。\n現在は開発および公開が停止。\n担当について 　北陸新幹線開業を見据えて提案から開発、リリースまで実施。初めてのチームリーダー、あわせてバックエンドAPIの開発を担当しました。",
+    "summary": "出張者向け観光アプリ",
     "tags": [
       "PHP",
       "FuelPHP",

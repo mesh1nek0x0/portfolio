@@ -8,7 +8,7 @@ draft = false
 tags = ["PHP", "FuelPHP", "API", "オープンデータ"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "出張者向け観光アプリ"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

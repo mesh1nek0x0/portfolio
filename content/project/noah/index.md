@@ -1,5 +1,5 @@
 +++
-title = "Noah"
+title = "Noah（Electron）"
 date = 2018-11-13T00:14:47+09:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = ["AWS", "AWS Lambda", "API Gateway", "NodeJS", "個人開発", "Electron"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "河川水位監視の監視デスクトップアプリ"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
