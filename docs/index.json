@@ -88,6 +88,28 @@
     "type": "talk"
   },
   {
+    "authors": null,
+    "categories": null,
+    "content": " 概要 node-lambdaを利用したサーバレスでWeb Scrapingを行えるサンプル。 その他、ヘッドレスブウラウザに比べて書き方は多少煩雑ですが、軽量で安定しています。\nAPIが公開されていないデータでも、定期的に実行してSlackへ通知\u0026hellip;といったことも実現できます。\n※PhontomJSはアーカイブされたため、現在は利用を推奨していません。Headless Chromeを使いましょう。\n",
+    "date": 1501206069,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1501206069,
+    "objectID": "f7d9255a7e83b363624b6866a8d79213",
+    "permalink": "https://mesh1nek0x0.github.io/portfolio/project/lambda-ghost/",
+    "publishdate": "2017-07-28T10:41:09+09:00",
+    "relpermalink": "/portfolio/project/lambda-ghost/",
+    "section": "project",
+    "summary": "Serverless Web Scraping Template by PhatomJS",
+    "tags": [
+      "AWS",
+      "AWS Lambda"
+    ],
+    "title": "👻Lambda Ghost",
+    "type": "project"
+  },
+  {
     "authors": [],
     "categories": null,
     "content": "",

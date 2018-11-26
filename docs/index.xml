@@ -65,6 +65,25 @@
     </item>
     
     <item>
+      <title>👻Lambda Ghost</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/lambda-ghost/</link>
+      <pubDate>Fri, 28 Jul 2017 10:41:09 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/lambda-ghost/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;node-lambdaを利用したサーバレスでWeb Scrapingを行えるサンプル。
+その他、ヘッドレスブウラウザに比べて書き方は多少煩雑ですが、軽量で安定しています。&lt;/p&gt;
+
+&lt;p&gt;APIが公開されていないデータでも、定期的に実行してSlackへ通知&amp;hellip;といったことも実現できます。&lt;/p&gt;
+
+&lt;p&gt;※PhontomJSはアーカイブされたため、現在は利用を推奨していません。Headless Chromeを使いましょう。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>「アーバンデータチャレンジ2014」ファイナルステージ</title>
       <link>https://mesh1nek0x0.github.io/portfolio/talk/urban-data-challenge-2014/</link>
       <pubDate>Sat, 28 Feb 2015 10:00:00 +0900</pubDate>

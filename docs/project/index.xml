@@ -34,6 +34,17 @@ Asia Open Data Hackthon 2017にて開発、現在は開発停止。
     </item>
     
     <item>
+      <title>👻Lambda Ghost</title>
+      <link>https://mesh1nek0x0.github.io/portfolio/project/lambda-ghost/</link>
+      <pubDate>Fri, 28 Jul 2017 10:41:09 +0900</pubDate>
+      
+      <guid>https://mesh1nek0x0.github.io/portfolio/project/lambda-ghost/</guid>
+      <description>概要 node-lambdaを利用したサーバレスでWeb Scrapingを行えるサンプル。 その他、ヘッドレスブウラウザに比べて書き方は多少煩雑ですが、軽量で安定しています。
+APIが公開されていないデータでも、定期的に実行してSlackへ通知&amp;hellip;といったことも実現できます。
+※PhontomJSはアーカイブされたため、現在は利用を推奨していません。Headless Chromeを使いましょう。</description>
+    </item>
+    
+    <item>
       <title>金沢すきま旅（iOS App）</title>
       <link>https://mesh1nek0x0.github.io/portfolio/project/kanazawa-sukima/</link>
       <pubDate>Sat, 31 Jan 2015 10:00:00 +0900</pubDate>
